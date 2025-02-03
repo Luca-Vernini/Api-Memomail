@@ -1,11 +1,3 @@
-# Introduzione
+# Benvenuto nella documentazione di MemoMail
 
-Benvenuto nella documentazione delle API di MemoMail! 🚀
-
-## 📌 Cosa troverai qui?
-- Come autenticarsi
-- Endpoints disponibili
-- Esempi di utilizzo
-
-## 🔗 Link utili
-- [Sito ufficiale](https://memomail.cloud)
+Questa � la pagina introduttiva delle API di MemoMail.

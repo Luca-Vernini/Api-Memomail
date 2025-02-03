@@ -306,16 +306,16 @@
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
-  "theme.tags.tagsPageTitle": {
-    "message": "Tags",
-    "description": "The title of the tag list page"
-  }
+"theme.tags.tagsPageTitle": {
+  "message": "Tags",
+  "description": "The title of the tag list page"
+},
+"tagline": {
+  "message": "Le API di MemoMail, documentate per gli sviluppatori",
+  "description": "Tagline del sito"
+},
+"navbar": {
+  "message": "Barra di navigazione",
+  "description": "Elementi della barra di navigazione"
 }
-{
-  "tagline": "Le API di MemoMail, documentate per gli sviluppatori",
-  "navbar": {
-    "docs": "Documentazione",
-    "blog": "Blog",
-    "language": "Lingua"
-  }
 }
