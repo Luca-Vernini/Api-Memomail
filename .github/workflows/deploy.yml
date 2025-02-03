@@ -3,7 +3,7 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - master  # Usa "master" perché il tuo branch principale è master
+      - master  # Usa "master" perché è il branch principale
 
 jobs:
   deploy:
