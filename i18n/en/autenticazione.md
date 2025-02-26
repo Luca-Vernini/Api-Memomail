@@ -1,3 +1,3 @@
 # Autenticazione API
 
-Questa pagina descrive come autenticarsi alle API di MemoMail.
+This page describes how to autenticate to MemoMail APIs.
